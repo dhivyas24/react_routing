@@ -1,0 +1,18 @@
+.app {
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 20px;
+  height: 100vh;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  background-color: #f8f9fd;
+}
+
+.nav-bar {
+  display: flex;
+  gap: 35px;
+  font-size: 18px;
+  padding: 20px;
+}
